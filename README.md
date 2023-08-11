@@ -1,5 +1,5 @@
 ## Olá! Eu me chamo Mizael Junior. 
- Estou Cursando Engenharia de Software e sou Técnico em Desenvolimento de Sistemas.
+ Estou Cursando Engenharia de Software e sou Técnico em Desenvolmento de Sistemas.
 
  
 
